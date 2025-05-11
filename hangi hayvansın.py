@@ -68,5 +68,5 @@ while True:
         b(hayvan)
         continue
     else:
-        print("RENGİ SEÇENEKLERDEN SEÇİN!")
+        print("SEÇENEKLERDEN SEÇİN!")
         break
