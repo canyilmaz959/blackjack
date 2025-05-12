@@ -1,2 +1,2 @@
-# first coding
-this is my first coding
+# simple blackjack
+this is a simple blackjack
